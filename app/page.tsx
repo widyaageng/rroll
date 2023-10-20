@@ -7,7 +7,7 @@ export default function Home() {
   const messageList = [
     'From my github huh?',
     'Please wait, website is loading precious asset...',
-    'Dont worry, no scarejump...'
+    'Dont worry, no jumpscare...'
   ]
 
   const router = useRouter();
