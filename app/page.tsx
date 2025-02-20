@@ -14,7 +14,7 @@ export default function Home() {
 
   useEffect(() => {
     const timeout = setTimeout(() => {
-      router.push('https://bit.ly/3BlS71b');
+      router.push('https://shattereddisk.github.io/rickroll/rickroll.mp4');
     }, 10000);
 
     return () => clearTimeout(timeout);
